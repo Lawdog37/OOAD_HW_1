@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="csci4448.homework1.MyMathFunctionsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-09-03T03:54:15" hostname="DESKTOP-TMHFDPD" time="42.169">
+  <properties/>
+  <testcase name="testFibonacciFor21()" classname="csci4448.homework1.MyMathFunctionsTest" time="0.017"/>
+  <testcase name="testFactorialFor0()" classname="csci4448.homework1.MyMathFunctionsTest" time="7.573"/>
+  <testcase name="testFactorialFor2()" classname="csci4448.homework1.MyMathFunctionsTest" time="2.306"/>
+  <testcase name="testFactorialFor5()" classname="csci4448.homework1.MyMathFunctionsTest" time="2.309"/>
+  <testcase name="testFibonacciFor1()" classname="csci4448.homework1.MyMathFunctionsTest" time="1.789"/>
+  <testcase name="testFibonacciFor2()" classname="csci4448.homework1.MyMathFunctionsTest" time="3.184"/>
+  <testcase name="testFibonacciFor3()" classname="csci4448.homework1.MyMathFunctionsTest" time="12.314"/>
+  <testcase name="testFibonacciFor4()" classname="csci4448.homework1.MyMathFunctionsTest" time="9.337"/>
+  <testcase name="testFibonacciFor5()" classname="csci4448.homework1.MyMathFunctionsTest" time="1.818"/>
+  <testcase name="testFactorialFor10()" classname="csci4448.homework1.MyMathFunctionsTest" time="1.518"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
